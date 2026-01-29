@@ -1,8 +1,8 @@
 # UAS BigData & Predictive Analytics Lanjut
 
-Nama : Rizal Anggoro
-NIM : 23.11.5498
-Kelas : 23S1IF08-BigData(ST153)
+# Nama : Rizal Anggoro
+# NIM : 23.11.5498
+# Kelas : 23S1IF08-BigData(ST153)
 
 ## Studi Kasus
 Analisis ulasan pengguna aplikasi BCA Mobile untuk mengidentifikasi pola sentimen
